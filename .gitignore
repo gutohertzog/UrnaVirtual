@@ -1,0 +1,10 @@
+# Arquivos #
+############
+# arquivos para não serem comitados
+*._index.html
+
+# Pastas geradas pelo sistema #
+###############################
+.vscode
+tutorial
+pdo_crud
