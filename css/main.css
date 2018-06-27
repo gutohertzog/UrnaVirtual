@@ -1,0 +1,19 @@
+#wrapper{
+	width: 900px;
+	margin: auto;
+}
+
+.topo{
+	margin-top: 50px;
+}
+#index_button{
+	width: 500px;
+	margin: auto;
+}
+
+#logo{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
